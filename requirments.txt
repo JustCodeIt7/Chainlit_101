@@ -1,0 +1,6 @@
+chainlit
+langchain
+langgraph
+openai
+langchain-openai
+langchain-ollama
